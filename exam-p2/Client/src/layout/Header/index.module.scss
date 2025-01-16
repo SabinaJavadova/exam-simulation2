@@ -1,0 +1,23 @@
+header{
+    background-color: #413F46;
+    nav{
+        display: flex;
+        justify-content: center;
+        gap: 20rem;
+        padding: 1rem;
+        .logo{
+           border: 1px solid white;
+           padding: 0.3rem;
+           h2{
+            color: white;
+           }
+        }
+        ul{
+            display: flex;
+            gap: 1rem;
+            li{
+                
+            }
+        }
+    }
+}
